@@ -6,7 +6,7 @@ Hello and welcome to this Database. This Pishing Database has over **75k** Pishi
 
 You could download the domains.json but you should rather call 
 
-    https://raw.githubusercontent.com/Yuutokata/Pishing-Database/main/domains.json
+    https://raw.githubusercontent.com/Yuutokata/Pishing-Database/main/database/domains.json
 
 and get it as a json and loop through it.
 
@@ -27,7 +27,7 @@ You "can't" pls contact me so i can  remove you Domain from the Database.
 	
     import requests
     
-	r = requests.get("https://raw.githubusercontent.com/Yuutokata/Pishing-Database/main/domains.json"
+	r = requests.get("https://raw.githubusercontent.com/Yuutokata/Pishing-Database/main/database/domains.json")
 	
 	for domain in r.json():
 	
