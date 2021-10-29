@@ -22,17 +22,3 @@ Yea you could use the Api instead of this Database, but this Database has no Rat
 
 You "can't" pls contact me so i can  remove you Domain from the Database. 
 
-## Python Example
-
-	
-    import requests
-    
-	r = requests.get("https://raw.githubusercontent.com/Yuutokata/Pishing-Database/main/database/domains.json")
-	
-	for domain in r.json():
-	
-		if "https://google.com" == domain:
-			print("Pishing Domain")
-			
-		else:
-			pass
