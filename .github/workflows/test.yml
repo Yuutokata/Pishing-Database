@@ -1,5 +1,5 @@
 
-name: Remove File
+name: Remove File Test
 
 on: workflow_dispatch
 
@@ -7,7 +7,8 @@ jobs:
   delete_file:
     runs-on: ubuntu-latest
     steps:
-      - uses: JesseTG/rm@v1.0.0
+      - name: Remove File
+        uses: JesseTG/rm@v1.0.0
         with:
           path: database/domains.json
       
