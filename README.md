@@ -1,6 +1,6 @@
 # Pishing Database
 
-Hello and welcome to this Database. This Pishing Database has over **75k** Pishing Domains and it would get updated every Sunday but i dont have a solution to edit Files over 1mb with git.. 
+Hello and welcome to this Database. This Pishing Database has over **75k** Pishing Domains and it's get updated every 3 Hours.
 
 ## How to use the Database?
 
