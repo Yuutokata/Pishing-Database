@@ -6,7 +6,7 @@ Hello and welcome to this Database. This Pishing Database has over **75k** Pishi
 
 You could download the domains.json but you should rather call 
 
-    https://raw.githubusercontent.com/Yuutokata/Pishing-Database/main/database/domains.json
+    https://pishingdb.yuutokata.repl.co/
 
 and get it as a json and loop through it.
 
