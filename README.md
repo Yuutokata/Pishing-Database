@@ -6,13 +6,13 @@ Hello and welcome to this Database. This Pishing Database has over **75k** Pishi
 
 You could download the domains.json but you should rather call 
 
-    https://pishingdb.yuutokata.repl.co/
+    https://api.yuutokata.repl.co/
 
 and get it as a json and loop through it.
 
 ## How do we detect Pishing Links/Domains?
 
-We detecting the Pishing Domains through other Api's and more. 
+We detecting the Pishing Domains through other Api's and Pyfunceble. 
 
 ## Why we doing this?
 
