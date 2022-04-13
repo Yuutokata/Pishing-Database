@@ -8,7 +8,7 @@ You could download the domains.json but you should rather call
 
     https://api.yuutokata.repl.co/
 
-and get it as a json and loop through it.
+and get it as a json and loop through it because the json file don't get updated.
 
 ## How do we detect Pishing Links/Domains?
 
