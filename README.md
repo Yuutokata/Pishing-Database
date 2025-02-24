@@ -1,24 +1,21 @@
-# Pishing Database
 
-Hello and welcome to this Database. This Pishing Database has over **75k** Pishing Domains and it's get updated every 3 Hours.
+# Phishing-Database (Archived)
 
-## How to use the Database?
+**This repository is no longer actively maintained and is provided for archival purposes only.**  The data contained within may be outdated and should not be relied upon for current phishing detection.  Use at your own risk.
 
-You could download the domains.json but you should rather call 
+This repository previously contained a database of known phishing URLs and domains. 
 
-    https://api.yuutokata.repl.co/
+## Contents
 
-and get it as a json and loop through it because the json file don't get updated.
+This repository contains the following files:
 
-## How do we detect Pishing Links/Domains?
+*   `domains.txt`:  A list of known phishing domains (now outdated).
+*   `domains.json`: A list of known phishing domains (now outdated).
 
-We detecting the Pishing Domains through other Api's and Pyfunceble. 
+## Disclaimer
 
-## Why we doing this?
+The information in this repository is provided "as is" without any warranty, express or implied.  The maintainers are not responsible for any misuse of this data.  Phishing techniques evolve rapidly, and the data here is likely incomplete and outdated.  Relying on this data for any real-world phishing detection is strongly discouraged.  **Do not use this data for any illegal or unethical purposes.**
 
-Yea you could use the Api instead of this Database, but this Database has no Rate Limit and more Domains than a normal Api.
+## Contributing
 
-## My Domain is there how can i remove it?
-
-You "can't" pls contact me so i can  remove you Domain from the Database. 
-
+As this repository is archived, contributions are no longer being accepted.
